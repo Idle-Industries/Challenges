@@ -1,3 +1,3 @@
 # Challenges
 
-Phase 1 has 99 challenges to complete.
+Phase 1 has 100 challenges to complete.
